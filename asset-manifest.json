@@ -1,16 +1,17 @@
 {
   "files": {
-    "main.css": "/wduan-github.io/static/css/main.073c9b0a.css",
-    "main.js": "/wduan-github.io/static/js/main.79e079f3.js",
+    "main.css": "/wduan-github.io/static/css/main.3ca4cb51.css",
+    "main.js": "/wduan-github.io/static/js/main.8ab0a47a.js",
     "static/js/787.2746eaee.chunk.js": "/wduan-github.io/static/js/787.2746eaee.chunk.js",
-    "static/media/logo.svg": "/wduan-github.io/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "static/media/mainimg.jpg": "/wduan-github.io/static/media/mainimg.0dc586753d352baccfb1.jpg",
+    "static/media/instagram.png": "/wduan-github.io/static/media/instagram.7e0eb3c5ef472906b0d8.png",
     "index.html": "/wduan-github.io/index.html",
-    "main.073c9b0a.css.map": "/wduan-github.io/static/css/main.073c9b0a.css.map",
-    "main.79e079f3.js.map": "/wduan-github.io/static/js/main.79e079f3.js.map",
+    "main.3ca4cb51.css.map": "/wduan-github.io/static/css/main.3ca4cb51.css.map",
+    "main.8ab0a47a.js.map": "/wduan-github.io/static/js/main.8ab0a47a.js.map",
     "787.2746eaee.chunk.js.map": "/wduan-github.io/static/js/787.2746eaee.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.073c9b0a.css",
-    "static/js/main.79e079f3.js"
+    "static/css/main.3ca4cb51.css",
+    "static/js/main.8ab0a47a.js"
   ]
 }
