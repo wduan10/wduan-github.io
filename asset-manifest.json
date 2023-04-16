@@ -1,17 +1,17 @@
 {
   "files": {
     "main.css": "/wduan-github.io/static/css/main.3ca4cb51.css",
-    "main.js": "/wduan-github.io/static/js/main.8ab0a47a.js",
+    "main.js": "/wduan-github.io/static/js/main.67ba74ab.js",
     "static/js/787.2746eaee.chunk.js": "/wduan-github.io/static/js/787.2746eaee.chunk.js",
     "static/media/mainimg.jpg": "/wduan-github.io/static/media/mainimg.0dc586753d352baccfb1.jpg",
     "static/media/instagram.png": "/wduan-github.io/static/media/instagram.7e0eb3c5ef472906b0d8.png",
     "index.html": "/wduan-github.io/index.html",
     "main.3ca4cb51.css.map": "/wduan-github.io/static/css/main.3ca4cb51.css.map",
-    "main.8ab0a47a.js.map": "/wduan-github.io/static/js/main.8ab0a47a.js.map",
+    "main.67ba74ab.js.map": "/wduan-github.io/static/js/main.67ba74ab.js.map",
     "787.2746eaee.chunk.js.map": "/wduan-github.io/static/js/787.2746eaee.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.3ca4cb51.css",
-    "static/js/main.8ab0a47a.js"
+    "static/js/main.67ba74ab.js"
   ]
 }
